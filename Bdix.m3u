@@ -52,7 +52,7 @@ http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBHQLceCCfnBzG3UE29dn-9oSuUYimTsDpdRt4imUpmWTFeaFEflduHnQ&s=10" group-title="",group-title="𝐈𝐏𝐋 𝐋𝐈𝐕𝐄",Geo Super HD
 http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBHQLceCCfnBzG3UE29dn-9oSuUYimTsDpdRt4imUpmWTFeaFEflduHnQ&s=10" group-title="",group-title="𝐈𝐏𝐋 𝐋𝐈𝐕𝐄",Star Sports Hindi HD
-http://41.205.93.154/STARSPORTS1/index.m3u8
+http://103.240.44.26/9x-Jalwa/tracks-a1/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/football-logo-design-template-bebebf8ff1c25b66b504d37afaee99f0_screen.jpg?ts=1686017774" group-title="",group-title="𝐈𝐏𝐋 𝐋𝐈𝐕𝐄",Football match
 http://103.101.197.10:8989/M_Movies/index.m3u8
